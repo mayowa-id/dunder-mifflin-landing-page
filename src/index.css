@@ -627,9 +627,9 @@ body.dark-mode .details-content {
   transition: 0.3s;
 }
 .branch-name{
-  color: white; 
+ color: rgb(232, 214, 155);
   text-shadow: rgb(206, 79, 44) 1px;
-  font-size: 1.2rem;
+  font-size: 1rem;
 }
 .branches-list li:hover {
   border-color: var(--accent);
@@ -807,3 +807,4 @@ body.dark-mode .details-content {
   }
 
 }
+
